@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - gh-pages
+      - fix/serve-sheets-correctly
   workflow_dispatch:
 
 permissions:
